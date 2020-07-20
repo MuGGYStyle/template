@@ -180,7 +180,7 @@
     "invariant": "2.2.4",
     "ip": "1.1.5",
     "keycode": "^2.2.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lru-memoize": "^1.0.2",
     "material-ui-pickers": "2.0.2",
     "minimist": "1.2.0",
