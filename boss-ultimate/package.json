@@ -301,7 +301,7 @@
     "rimraf": "2.6.2",
     "sass-loader": "^7.1.0",
     "sass-material-colors": "0.0.5",
-    "shelljs": "^0.8.2",
+    "shelljs": "^0.8.5",
     "style-loader": "0.21.0",
     "stylelint": "^9.10.1",
     "stylelint-config-recommended": "2.1.0",
