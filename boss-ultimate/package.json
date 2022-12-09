@@ -170,7 +170,7 @@
     "draftjs-to-markdown": "^0.5.1",
     "emoji-js": "^3.4.0",
     "emoji-picker-react": "^2.0.4",
-    "express": "4.16.3",
+    "express": "4.17.3",
     "fontfaceobserver": "2.0.13",
     "fs": "0.0.1-security",
     "history": "4.7.2",
